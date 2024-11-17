@@ -230,9 +230,9 @@ body {
   
   @media (max-width: 768px) {
   
-    .nav-links a {
-      display:none;
-      flex-direction:column;
+    .nav-links  {
+      display: none;
+      flex-direction: column;
       width: 100%;
       position:absolute;
       top: 70px;
