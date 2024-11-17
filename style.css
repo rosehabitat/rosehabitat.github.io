@@ -103,11 +103,11 @@ body {
   }
   
   @keyframes slideBackground {
-    0% { background-image: url('./assets/images/S11.jpg'); }
-    25% { background-image: url('./assets/images/S8.jpg'); }
-    50% { background-image: url('./assets/images/S6.jpg'); }
-    75% { background-image: url('./assets/images/S5.jpg'); }
-    100% { background-image: url('./assets/images/S7.jpg'); }
+    0% { background-image: url('S11.jpg'); }
+    25% { background-image: url('S8.jpg'); }
+    50% { background-image: url('S6.jpg'); }
+    75% { background-image: url('S5.jpg'); }
+    100% { background-image: url('S7.jpg'); }
   }
   
   .about, .projects, .recent-activities, .contact {
